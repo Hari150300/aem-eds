@@ -43,8 +43,7 @@
   {
     "id" : "quote",
     "components": [
-      "text",
-      "richtext"
-      ]
+      "image"
+    ]
   }
 ]
