@@ -43,7 +43,8 @@
   {
     "id" : "quote",
     "components": [
-      "text"
+      "text",
+      "richtext"
       ]
   }
 ]
