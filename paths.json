@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-eds/en/jcr:content:/",
+    "/content/aem-eds/en/demo/:/",
     "/content/aem-eds/configuration:/.helix/config.json",
     "/content/aem-eds/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-eds"
+    "/content/aem-eds/"
   ]
 }
