@@ -186,12 +186,14 @@
                   "name": "Header",
                   "model": "header",
                   "item_0": {
-                    "model": "topnav",
-                    "filter": "top-navigation"
+                    "model": "section",
+                    "filter": "top-navigation",
+                     "name" : "topnav"
                     },
                     "item_1": {
-                      "model": "bottomnav",
-                      "filter": "bottom-navigation"
+                      "model": "section",
+                      "filter": "bottom-navigation",
+                      "name" : "bottomnav"
                     }
                 }
               }
