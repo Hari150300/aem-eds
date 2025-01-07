@@ -210,9 +210,33 @@
       {
         "component": "container",
         "name": "topnav",
-        "value": "",
         "label": "Top Nav",
-        "valueType": "string"
+        "valueType": "string",
+        "fields": [
+          {
+            "component": "container",
+            "label": "DropDown Values",
+            "name": "text",
+            "valueType": "string",
+            "multi" : "true",
+            "fields": [
+              {
+                "component": "richtext",
+                "name": "quote",
+                "value": "",
+                "label": "Quote",
+                "valueType": "string"
+              },
+              {
+                "component": "text",
+                "valueType": "string",
+                "name": "author",
+                "label": "Author",
+                "value": ""
+              }
+            ]
+          }
+        ]
       },
       {
         "component": "container",
