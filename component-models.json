@@ -203,6 +203,25 @@
         "value": ""
       }
     ]
+  },
+  {
+    "id": "header",
+    "fields": [
+      {
+        "component": "container",
+        "name": "topnav",
+        "value": "",
+        "label": "Top Nav",
+        "valueType": "string"
+      },
+      {
+        "component": "container",
+        "valueType": "string",
+        "name": "bottomnav",
+        "label": "Top Nav",
+        "value": ""
+      }
+    ]
   }
 
 ]

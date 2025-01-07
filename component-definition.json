@@ -185,12 +185,8 @@
                 "template": {
                   "name": "Header",
                   "model": "header",
-                  "item_0": {
-                    "model": "section"
-                    },
-                    "item_1": {
-                      "model": "section"
-                    }
+                  "topnav" : "",
+                  "bottomnav" : ""
                 }
               }
             }
