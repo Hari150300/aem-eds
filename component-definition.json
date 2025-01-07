@@ -186,10 +186,10 @@
                   "name": "Header",
                   "model": "header",
                   "item_0": {
-                    "filter": "section"               
+                    "model": "section"
                     },
                     "item_1": {
-                      "filter": "section"
+                      "model": "section"
                     }
                 }
               }
