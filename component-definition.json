@@ -188,12 +188,12 @@
                   "item_0": {
                     "model": "section",
                     "filter": "top-navigation",
-                     "name" : "topnav"
+                     "title" : "topnav"
                     },
                     "item_1": {
                       "model": "section",
                       "filter": "bottom-navigation",
-                      "name" : "bottomnav"
+                      "title" : "bottomnav"
                     }
                 }
               }
