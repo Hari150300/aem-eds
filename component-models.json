@@ -205,7 +205,7 @@
     ]
   },
   {
-    "id": "header",
+    "id": "headermodel",
     "fields": [
       {
         "component": "richtext",
