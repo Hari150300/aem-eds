@@ -177,7 +177,6 @@
         {
           "title": "Header",
           "id": "header",
-          "filter": "header",
           "plugins": {
             "xwalk": {
               "page": {
@@ -193,7 +192,6 @@
         {
           "title": "Link",
           "id": "link",
-          "filter": "link",
           "plugins": {
             "xwalk": {
               "page": {
