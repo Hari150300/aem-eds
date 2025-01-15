@@ -224,7 +224,7 @@
     ]
   },
   {
-    "id": "link",
+    "id": "container",
     "fields": [
       {
         "component": "container",
