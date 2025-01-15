@@ -230,7 +230,6 @@
         "component": "container",
         "label": "Container",
         "name": "container",
-        "multi" : true,
         "fields": [
           {
             "component": "aem-content",
