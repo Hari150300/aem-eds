@@ -226,16 +226,15 @@
   {
     "id": "link",
     "fields": [
-      
       {
         "component": "aem-content",
-        "label": "Reference",
-        "name": "reference"
+        "name": "link",
+        "label": "Link"
       },
       {
         "component": "text",
-        "name": "linkurl",
-        "label": "linkUrl"
+        "name": "linkText",
+        "label": "Text"
       }
     ]
   }
