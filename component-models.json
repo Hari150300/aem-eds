@@ -240,7 +240,8 @@
           {
             "component": "text",
             "name": "linkText",
-            "label": "Text"
+            "label": "Text",
+            "multi" : true
           }
         ]
       }
