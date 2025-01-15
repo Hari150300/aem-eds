@@ -230,12 +230,10 @@
       {
         "component": "aem-content",
         "label": "Reference",
-        "name": "reference",
-        "valueType": "string"
+        "name": "reference"
       },
       {
         "component": "text",
-        "valueType": "string",
         "name": "linkurl",
         "label": "linkUrl"
       }
