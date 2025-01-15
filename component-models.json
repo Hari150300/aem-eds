@@ -208,19 +208,20 @@
     "id": "headermodel",
     "fields": [
       {
-        "component": "richtext",
-        "name": "quote",
-        "value": "test",
-        "label": "Quote",
-        "valueType": "string"
-      },
-      {
         "component": "text",
         "valueType": "string",
         "name": "author",
         "label": "Author",
         "value": "test"
+      },
+      {
+        "component": "richtext",
+        "name": "quote",
+        "value": "test",
+        "label": "Quote",
+        "valueType": "string"
       }
+
     ]
   }
 ]
