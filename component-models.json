@@ -222,5 +222,23 @@
         "value": "test"
       }
     ]
+  },
+  {
+    "id": "link",
+    "fields": [
+      
+      {
+        "component": "reference",
+        "label": "Reference",
+        "name": "reference",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "author",
+        "label": "Author"
+      }
+    ]
   }
 ]
